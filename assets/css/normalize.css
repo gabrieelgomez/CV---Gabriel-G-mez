@@ -8,6 +8,10 @@
  * Corrects block display not defined in IE6/7/8/9 & FF3
  */
 
+ .center-f {
+  width:20%; margin:3% 40%;
+ }
+
 .Hero-video{position:absolute;bottom:0;z-index:0}.Hero-video.full-width{width:100%}.no-video .Hero-wrapper .Hero-video,.touch .Hero-wrapper .Hero-video{display:none}
 
 
